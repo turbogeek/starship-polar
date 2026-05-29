@@ -1,3 +1,3 @@
 # starship-polar
 
-[View the Starship Polar Project](https://github.com/turbogeek/starship-polar/blob/main/starship_polar.html)
+[View the Starship Polar Web Page](https://turbogeek.github.io/starship-polar/starship_polar.html)
